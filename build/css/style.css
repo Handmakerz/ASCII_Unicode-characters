@@ -1,0 +1,49 @@
+@import url('https://fonts.googleapis.com/css?family=Open+Sans+Condensed:300');
+
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    font-family:'Open Sans Condensed', sans-serif;
+}
+
+.container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+li {
+    font-size: 1.5rem;
+    margin-top: 2rem;
+}
+
+h1 {
+    text-align: center;
+    font-size: 4rem;
+    margin-bottom: 1rem;
+    padding: 2rem;
+    background-color: lightgrey;
+}
+
+#output {
+    text-align: center;
+    padding: 50px 0 0 ;
+    color:royalblue;
+    font-size: 3.5rem;
+    font-style: oblique;
+}
+
+
+.icons{
+    color:royalblue;
+    display: flex;
+    justify-content: center;
+}
+
+.fab, .fas {
+    font-size: 3rem;
+    margin:4rem 1rem;
+}
