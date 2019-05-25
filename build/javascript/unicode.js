@@ -1,3 +1,6 @@
+/*Storing inside of variables in order to 
+place in functions within an array*/
+
 let unicodeCharacter= ['s','b','a','c'];
 
 let u = String.fromCharCode(0x016F);
