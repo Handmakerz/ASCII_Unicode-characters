@@ -20,7 +20,7 @@ _Register_
 
 ---
 
-**Quick grab of letters**
+_**Quick grab of letters**_
 
 
 Á
@@ -52,3 +52,5 @@ _Register_
 ---
 ## Resources
 Link reference [Unicode-table](https://unicode-table.com)
+
+Link reference [Unicode-chart](http://www.unicode.org/charts/)
