@@ -12,7 +12,10 @@ body {
 }
 
 .container {
-    width:500px;
+    display: grid;
+    justify-content: center;
+    align-items: center;
+    width:800px;
     margin: auto;
 }
 
@@ -29,36 +32,40 @@ h1 {
     background-color: lightgrey;
 }
 
-#output {
+ #output {
     text-align: center;
-    margin-top: 10px;
+    margin: 5px;
     color:royalblue;
     font-size: 3.5rem;
 }
 
-
 .icons{
     color:royalblue;
-    display: flex;
-    justify-content: center;
+    text-align: center;
 }
 
 .fab, .fas {
     font-size: 3rem;
-    margin:4rem 1rem;
+    margin: 24px 10px;
 }
 
 @media screen and (max-width: 1075px) {
+    .container {
+        display: grid;
+        justify-content: center;
+        align-items: center;
+        width:500px;
+        margin: auto;
+    }
     #output {
         font-size:1.7rem;
         font-family: sans-serif;
+        
     }
 
     li {
-        font-size: 1.5rem;
+        font-size: 1.4rem;
         margin-top: 2rem;
         margin:.5rem 3rem;
-    }
-
-    
+    } 
   }

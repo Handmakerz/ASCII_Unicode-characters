@@ -109,8 +109,10 @@ __*Cyrillic Alpahbet*__
 
 А
 Б
+б
 В
 Г
+г
 
 > Ґ   ґ
 
@@ -156,6 +158,8 @@ __*Cyrillic Alpahbet*__
 Я
 
 ---
+
+
 ## Resources
 Link reference [Unicode-table](https://unicode-table.com)
 
