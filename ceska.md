@@ -1,4 +1,4 @@
-|ceska Chart       |
+|Česká Jazyku    |
 |----|
 
 | Alphabet   | sound  |
@@ -31,20 +31,12 @@
 |h| [há]|
 |Ch| [chá]|
 |ch| [chá]|
-|I| [í] měkké i|
-|i| [í] měkké i|
-|Í| [dlouhé í] dlouhé měkké í |
-|í| [dlouhé í] dlouhé měkké í|
-```
-í s čárkou
-měkké í s čárkou
-
-```
-
-| Alphabet   | sound  |
-| --| --|
-|J| [jé]    |
-|j| [jé]    |
+|I| [ í ] měkké i|
+|i| [ í ] měkké i|
+|Í| [dlouhé í] dlouhé měkké í, [í s čárkou měkké]|
+|í| [dlouhé í] dlouhé měkké í, [í s čárkou měkké]|
+|J| [ jé ]    |
+|j| [ jé ]    |
 |K| [ká]    |
 |k| [ká]    |
 |L| [el]    |
@@ -65,20 +57,20 @@ měkké í s čárkou
 |q| [kvé]   |
 |R| [er]    |
 |r| [er]    |
-|Ř| [eř] |
-|ř| [eř] |
+|Ř| [ eř ] |
+|ř| [ eř ] |
 |S| [es] |
 |s| [es] |
 |Š| [eš] |
 |š| [eš] |
 |T| [té] |
 |t| [té] |
-|Ť| [ťé] |
-|ť| [ťé] |
+|Ť| [ ťé ] |
+|ť| [ ťé ] |
 |U| [ú] |
 |u| [ú] |
-|Ú| [dlouhé ú,] ú s čárkou |
-|ú| [dlouhé ú,] ú s čárkou |
+|Ú| [dlouhé ú], [ ú s čárkou] |
+|ú| [dlouhé ú], [ ú s čárkou] |
 |Ů| [uh] ů s kroužkem |
 |ů| [uh] ů s kroužkem |
 |V| [vé] |
