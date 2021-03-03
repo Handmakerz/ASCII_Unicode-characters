@@ -1,7 +1,4 @@
 # ASCII_Unicode-characters
 
-A reference of character sets that helps with ideals.
+A reference of character sets.
 
----
-
-Until next time >quote: "The Adventure." ;-}
